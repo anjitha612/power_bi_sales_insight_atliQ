@@ -20,7 +20,7 @@ As data source for this project, we have taken the data from database provided b
   <br/>
 + _Performance Insights_
 ![Screenshot 2024-08-05 225856](https://github.com/user-attachments/assets/cd0a2b19-a208-4dd1-aadc-dc44c33f5758)<br/><br/>
-   _The performance insights gives insights related to perfromance of the comany in different cities which have been classifed as per zones._<br/><br/>
+   _The performance insights gives insights related to performance of the company in different cities which have been classifed as per zones._<br/><br/>
  
 
 ## How to run the project.
