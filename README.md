@@ -11,7 +11,7 @@ As data source for this project, we have taken the data from database provided b
 ## Visualizations 
 + _Key Insights_
 ![Screenshot 2024-08-05 225702](https://github.com/user-attachments/assets/dabe3c49-06f3-49f4-b718-744b186415af)<br/><br/>
- _The key insights that can be drawn from the report is related to the revenue, the top 5 customores and products. As a key note we can see see that the revenue has been decreasing over the years for Atliq Hardware._<br/>
+ _The key insights that can be drawn from the report is related to the revenue, the top 5 customers and products. As a key note we can see see that the revenue has been decreasing over the years for Atliq Hardware._<br/>
   <br/><br/>
 + _Profit Insights_
 ![Screenshot 2024-08-05 225826](https://github.com/user-attachments/assets/eee851a6-dcfa-468a-835f-11ecf2750098)<br/>
